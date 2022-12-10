@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hos.xsl" type="text/xsl"?>
+<users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <movie>
+        <id>1</id>
+        <name>Spiderman</name>
+        <rating>8</rating>
+    </movie>
+    <movie>
+        <id>2</id>
+        <name>Superman</name>
+        <rating>7</rating>
+    </movie>
+    <movie>
+        <id>3</id>
+        <name>Batman</name>
+        <rating>9</rating>
+    </movie>
+</users>
